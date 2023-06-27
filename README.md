@@ -5,7 +5,7 @@ By a CS student of Nankai university
 高级语言程序设计2-2课程大作业，基于QT和c++的编程环境所实现的跑酷小游戏
 
 ## JAVA Language and Applications
-利用JAVA所实现的五子棋小游戏，可实现不同终端间的网络游戏
+刘爷的课，利用JAVA所实现的五子棋小游戏，可实现不同终端间的网络游戏
 
 ## Database system
 基于MFC和MYSQL的简易超市管理系统

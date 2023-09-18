@@ -1,7 +1,7 @@
 # os-lab0.5 \& os-lab1 实验报告
 
 ## 组内人员与源码链接
-- [2112495魏靖轩](www.baidu,com)
+- [2112495魏靖轩](https://github.com/J1ngxuanWei/Coursework/tree/main/operating%20system/lab1)
 
 
 

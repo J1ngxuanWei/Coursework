@@ -38,7 +38,8 @@ void clock_init(void) {
     // divided by 500 when using Spike(2MHz)
     // divided by 100 when using QEMU(10MHz)
     // timebase = sbi_timebase() / 500;
-    clock_set_next_event();
+    
+    //clock_set_next_event();
 
     // initialize time counter 'ticks' to zero
     ticks = 0;

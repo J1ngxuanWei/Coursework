@@ -32,7 +32,14 @@ int kern_init(void) {
     clock_init();  // init clock interrupt
 
     intr_enable();  // enable irq interrupt
+
+
+    asm(
+        "ebreak"
+    );
+
     
+    cprintf("end debug\n");
     while (1)
         ;
 }

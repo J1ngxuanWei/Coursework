@@ -2,8 +2,8 @@
 
 ## 组内人员与源码链接
 - [2112495魏靖轩](https://github.com/J1ngxuanWei/Coursework/tree/main/operating%20system/lab1)
-
-
+- [2111822张浩龙](www.baidu.com)
+- [2113202刘子瑞](www.baidu.com)
 
 ## lab0.5
 

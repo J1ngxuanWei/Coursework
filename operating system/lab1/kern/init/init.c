@@ -33,11 +33,17 @@ int kern_init(void) {
 
     intr_enable();  // enable irq interrupt
 
-
+/*
     asm(
         "ebreak"
     );
+*/
 
+/*
+    uint32_t src=0;
+    uint32_t ret=0;
+    __asm__ __volatile__ ("mret");
+*/
     
     cprintf("end debug\n");
     while (1)

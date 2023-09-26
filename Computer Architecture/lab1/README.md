@@ -10,7 +10,7 @@
 
 ## 实验准备
 
-实验环境配置有点难搞。。。ams2hex年久失修（课程ece447也好难找），随后选择使用MARS手动转换文件（需要JAVA环境）：
+实验环境配置有点难搞。。。asm2hex年久失修（课程ece447也好难找），随后选择使用MARS手动转换文件（需要JAVA环境）：
 
 下载和官方wiki：[点我](https://courses.missouristate.edu/KenVollmar/MARS/download.htm)，使用的教程：[点我](https://www.bilibili.com/video/BV1au411y7qq/?vd_source=b8dd36605bfa8778525fe77268e66636)
 
